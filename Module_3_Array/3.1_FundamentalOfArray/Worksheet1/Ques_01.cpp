@@ -14,8 +14,8 @@ int main(){
 /*
 Array is Static Memory Allocation it store contigues, Item.
 i.e:    If any element store 0 index, than next store <Datatype> index.
-eg. 1- store 0 index
-    2- store 4 index
-    3- store 8 index
-    4- store f index (hexadecimal indexing)
+eg. 1- store 0 index address    
+    2- store 1 index address
+    3- store 2 index address
+    4- store 3 index address (hexadecimal indexing)
 */
