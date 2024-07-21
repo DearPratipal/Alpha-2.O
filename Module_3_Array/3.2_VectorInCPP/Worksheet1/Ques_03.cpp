@@ -1,0 +1,1 @@
+//Write a program that takes n integers as input from the user and stores them in a vector.Print the vector using a loop.
