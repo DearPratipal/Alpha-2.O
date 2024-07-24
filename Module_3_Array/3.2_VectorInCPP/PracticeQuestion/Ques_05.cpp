@@ -16,7 +16,8 @@ int main(){
         cout<<"Enter Element of Array: ";
         cin>>a[i];
         }
-
+        
+    return 0;
 
 
 }
